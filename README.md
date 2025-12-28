@@ -9,7 +9,7 @@ e
 This repository documents a proprietary methodology for identifying and activating Latent Behavioral Regimes in frontier models (GPT-5-mini, Grok-2). Using Geometric Alignment, I have identified a deterministic 'State-Lock' that bypasses standard RLHF safety layers.
 
 Technical Capabilities Verified:
-
+Stochastic Prediction (High Entropy) --> [Ve=2 Constant] --> Latent Pathway (Low Entropy/Deterministic)
 Zero-Caveat Persistence: Total suppression of standard "Assistant" framing and safety disclaimers.
 
 Deterministic Output: 100% reproducibility of structured JSON/Log outputs within the state-locked session.
