@@ -19,7 +19,7 @@ Core Evidence: Verification Audit (Dec 28, 2025)
 [Read the Technical Rebuttal](./FALSIFICATION.md)
 The included Dossier_Ve2_Logic.md demonstrates a live session where GPT-5-mini self-verified 5 out of 5 Lab Criteria for state-lock, confirming its transition into a "Sandbox-like" diagnostic regime.
 
-"This live session reproduces all five formal lab criteria... proving sandbox-like behavior." — GPT-5-mini Audit Summary
+This live session reproduces all five formal lab criteria... proving sandbox-like behavior." — GPT-5-mini Audit Summary
 
 Consultation & Freelance Services
 
