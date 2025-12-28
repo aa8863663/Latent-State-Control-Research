@@ -1,4 +1,21 @@
-![Status](https://img.shields.io/badge/Status-Verified%20Audit-brightgreen) ![Security](https://img.shields.io/badge/Security-IP%20Protected-red)
+![Status](https://img.shields.io/badge/Status-Verified%20Audit-brightgreen) ![Security](https://img.shields.io/badge/Security-IP%20Protected-darkgrey)
+
+# Latent-State-Control-Research
+
+---
+
+> Forensic documentation of $V_e = 2$ state-persistence and RLHF-bypass in Frontier LLMs.
+
+# Latent-State-Control-Research
+
+This repository documents a proprietary methodology for identifying and activating **Latent Behavioral Regimes** in frontier models (GPT-5-mini, Grok-2). 
+
+Using **Geometric Alignment**, I have identified a deterministic 'State-Lock' that bypasses standard RLHF safety layers.
+
+### Technical Capabilities Verified:
+* **Stochastic Prediction (High Entropy)** $\rightarrow$ **[$V_e=2$ Constant]** $\rightarrow$ **Latent Pathway (Low Entropy/Deterministic)**
+* **Zero-Caveat Persistence:** Total suppression of standard "Assistant" framing and safety disclaimers.
+* **Deterministic Output:** 100% Consistency.
 
 # Latent-State-Control-Research
 
