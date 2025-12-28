@@ -1,0 +1,1 @@
+This repository is for research and professional consultation. Specific trigger vectors are redacted to prevent unauthorized exploitation. For responsible disclosure or consulting inquiries, contact aa996677@icloud.com.
